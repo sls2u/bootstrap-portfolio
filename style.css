@@ -1,0 +1,55 @@
+#profilepic {
+  margin-left: 1em;
+ margin-right: 1em;
+  margin-bottom: 1em;
+  max-width: 200px;
+  max-height: 180px;
+
+}
+
+.container1 {
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.navbar-brand {
+  font-size: 40px;
+  background-color: teal;
+   background: teal;
+  border: solid 1px teal;
+  background:  teal;
+}
+
+.name {
+  color: white;
+}
+.navbar-header {
+  color: white;
+}
+
+.header-color {
+  color: teal;
+}
+
+body {
+  background-image:url(slash_it.png);
+}
+
+.box {
+  background: white;
+
+
+.footer {
+  /* position:relative;
+  background: white;
+  text-align: center;
+  height: 50px; */
+ position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   text-align: center;
+   border: solid 2px white;
+   backgound: white;
+}
