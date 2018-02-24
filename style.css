@@ -72,13 +72,18 @@ body {
 
 .btn-primary {
   background-color: teal;
+  margin-top: -37px;
 
+}
+
+.bottomseperator {
+  height: 31px;
 }
 
 .centerfooter {
   text-align: center;
 
-  position:fixed;
+
     padding-top: 26px;
     left:0px;
     bottom:0px;
