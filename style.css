@@ -46,6 +46,7 @@ width: 642px;
 .myp {padding-left: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
+    padding-top: 9px;
 }
 .navbar-header {
   color: white;
@@ -55,15 +56,24 @@ width: 642px;
   color: teal;
 }
 
+.linkcolor {
+  color: gray;
+}
+
 body {
   background-image:url(upfeathers.png);
 }
 
 .box {
   background: white;
+  margin-top: 63px;
 
 }
 
+.btn-primary {
+  background-color: teal;
+
+}
 
 .centerfooter {
   text-align: center;
@@ -91,6 +101,8 @@ body {
 }
 .contactform {
   width: 100%;
+  background: white;
+  padding: 1em;
 
 }
 
