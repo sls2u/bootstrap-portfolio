@@ -12,6 +12,10 @@
   margin-left: 100px;
 }
 
+.navbar {
+  border-radius: 0;
+}
+
 .navbar-brand {
   font-size: 40px;
   background-color: teal;
@@ -36,7 +40,7 @@
 
 .navsep {
   float: left;
-width: 682px;
+width: 642px;
 }
 
 .myp {padding-left: 15px;
@@ -58,13 +62,40 @@ body {
 .box {
   background: white;
 
+}
 
+
+.centerfooter {
+  text-align: center;
+
+  position:fixed;
+    padding-top: 26px;
+    left:0px;
+    bottom:0px;
+    height:60px;
+    width:100%;
+    text-align: center;
+    border: solid 2px white;
+    background-color: darkgrey;
+    color: white;
+    border-top-color: teal;
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-left-color: darkgrey;
+    border-left-style: solid;
+    border-left-width: 5px;
+    border-right-color: darkgrey;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+    border-bottom-color: darkgrey;
+}
+}
 .footer {
   /* position:relative;
   background: white;
   text-align: center;
   height: 50px; */
- position:fixed;
+
    left:0px;
    bottom:0px;
    height:30px;
