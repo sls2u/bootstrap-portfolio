@@ -21,7 +21,27 @@
 }
 
 .name {
-  color: white;
+  background-color: teal;
+  float: left;
+  color: white !important;
+  height: 49px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+  text-align: center;
+  width: 180px;
+
+}
+
+
+.navsep {
+  float: left;
+width: 682px;
+}
+
+.myp {padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
 }
 .navbar-header {
   color: white;
