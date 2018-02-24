@@ -56,7 +56,7 @@ width: 642px;
 }
 
 body {
-  background-image:url(slash_it.png);
+  background-image:url();
 }
 
 .box {
@@ -89,18 +89,11 @@ body {
     border-bottom-width: 5px;
     border-bottom-color: darkgrey;
 }
-}
-.footer {
-  /* position:relative;
-  background: white;
-  text-align: center;
-  height: 50px; */
+.contactform {
+  width: 100%;
 
-   left:0px;
-   bottom:0px;
-   height:30px;
-   width:100%;
-   text-align: center;
-   border: solid 2px white;
-   backgound: white;
+}
+
+.textarea {
+  height: 80px;
 }
