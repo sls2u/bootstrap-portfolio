@@ -123,3 +123,7 @@ body {
 .textarea {
   height: 80px;
 }
+
+.bkimg {
+  background-image: url("https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAubAAAAJDE1M2VhYThjLWViMmQtNDYzZS1hOTZlLTVhNWRmNzRhYjA2ZQ.jpg");
+}
